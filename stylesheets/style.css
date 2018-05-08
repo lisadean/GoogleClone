@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+.options_button{
+    background-image: url('//ssl.gstatic.com/gb/images/i2_2ec824b0.png');
+}
+
+.blue_letter{
+  color: blue;
+}
+
+.red_letter{
+  color: red;
+}
+
+.yellow_letter{
+  color: yelow;
+}
+
+.green_letter{
+  color: green;
+}
